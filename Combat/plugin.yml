@@ -1,0 +1,11 @@
+name: Combat
+main: me.lactem.main.Main
+version: 1.0
+author: Lactem
+description: A fun mini game!
+commands:
+  combat:
+    usage: /combat
+    description: All commands for Combat, including join, leave, and spectate.
+  reload:
+    aliases: rl
